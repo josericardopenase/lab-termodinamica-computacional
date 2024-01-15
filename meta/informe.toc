@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Parte I: Estudio de la ley de los gases ideales}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Mediciones}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Cálculo de moles}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Trabajo, calor y energía interna}{6}{}%
+\contentsline {section}{\numberline {3}Parte II: Estudio de un ciclo termodinámico}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Mediciones}{8}{}%
+\contentsline {subsection}{\numberline {3.2}Trabajo realizado}{9}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Transformación isobárica}{9}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Transformación isocórica}{10}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Transformación isotérmica}{11}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}Transformación isobárica}{12}{}%
+\contentsline {subsubsection}{\numberline {3.2.5}Transformación isocórica}{13}{}%
+\contentsline {subsubsection}{\numberline {3.2.6}Trabajo total y calor total}{13}{}%
+\contentsline {subsection}{\numberline {3.3}Calculo del trabajo gráfico}{14}{}%
+\contentsline {subsection}{\numberline {3.4}Eficiencia del ciclo}{14}{}%
+\contentsline {section}{\numberline {4}Enlaces y documentación}{16}{}%
